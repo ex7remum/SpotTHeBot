@@ -1,0 +1,4 @@
+KDTree spent time: 504763ms
+289
+504833ms
+504834ms
